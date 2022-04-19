@@ -1,7 +1,9 @@
-// Zun_6502.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Zun_6502.cpp : This file contains the 'main' function. Program execution begins and ends there. http://www.obelisk.me.uk/6502/
 //
 
 #include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
